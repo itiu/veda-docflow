@@ -1,4 +1,5 @@
 {
 	"name": "veda-docflow",
-	"description": "veda-docflow"
+	"description": "veda-docflow",
+        "license": "LGPL v3"
 }
